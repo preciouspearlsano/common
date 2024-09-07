@@ -6,7 +6,18 @@ This repository contains the common dependencies and configurations for the `Com
 
 The project is organized into the following structure:
 
-common-project/ ├── core/ │ ├── src/ │ │ ├── main/ │ │ │ ├── java/ │ │ │ └── resources/ │ │ └── test/ │ │ ├── java/ │ │ └── resources/ │ ├── pom.xml ├── pom.xml └── README.md
+common-project/ 
+├── core/ 
+│ ├── src/ 
+│ │ ├── main/ 
+│ │ │ ├── java/ 
+│ │ │ └── resources/ 
+│ │ └── test/ 
+│ │ ├── java/ 
+│ │ └── resources/ 
+│ ├── pom.xml 
+├── pom.xml 
+└── README.md
 
 
 ### Core Module
